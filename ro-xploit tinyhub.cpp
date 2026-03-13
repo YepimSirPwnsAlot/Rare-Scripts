@@ -4,5 +4,6 @@ using namespace std;
 
 int main() {
 	std::cout << "uh idk but your not getting the code for ro-xploit tiny hub"
-	reutrn 0;
+	return 0;
 }
+
